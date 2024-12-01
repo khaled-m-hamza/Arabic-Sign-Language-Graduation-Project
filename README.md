@@ -18,7 +18,10 @@ The project includes:
 - **Web Application**: Intuitive interface to bridge communication gaps for deaf and mute users.
 
 ---
+### **Demo Video**
 
+Watch the demonstration video [here on Vimeo](https://vimeo.com/997408283).
+----
 ### **Project Structure**
 ```plaintext
 Arabic-Sign-Language-Detection/
@@ -46,7 +49,5 @@ Arabic-Sign-Language-Detection/
 ├── README.md              # Project documentation
 └── LICENSE                # License file
 
----
-### **Demo Video**
 
-Watch the demonstration video [here on Vimeo](https://vimeo.com/997408283).
+
