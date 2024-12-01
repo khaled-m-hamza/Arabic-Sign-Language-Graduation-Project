@@ -45,3 +45,7 @@ Arabic-Sign-Language-Detection/
 │
 ├── README.md              # Project documentation
 └── LICENSE                # License file
+
+### **Demo Video**
+
+Watch the demonstration video [here on Vimeo](https://vimeo.com/997408283).
